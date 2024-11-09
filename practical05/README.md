@@ -4,6 +4,16 @@ This folder contains practical 05 codes.
 
 ## Compile1:
 
+* gcc fib.c -o fibc
+
+* ./fibc
+
+Enter the value of n: 9
+Fibonacci series up to 9:
+0, 1, 1, 2, 3, 5, 8, 13, 21, 34
+
+## Compile2:
+
 * gcc arc.c -o arcc -lm
 
 * ./arcc
@@ -39,3 +49,4 @@ The Difference at x=0.900000 is 0.1434035421
 Enter the value of n: 9
 Fibonacci series up to 9:
 0, 1, 1, 2, 3, 5, 8, 13, 21, 34
+
