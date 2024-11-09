@@ -3,7 +3,6 @@
 This folder contains practical 05 codes.
 
 ## Compile1:
-
 * gcc arc.c -o arcc -lm
 
 * ./arcc
@@ -31,7 +30,6 @@ The Difference at x=0.800000 is 0.1164611240
 The Difference at x=0.900000 is 0.1434035421
 
 ## Compile2:
-
 * gcc fib.c -o fibc
 
 * ./fibc
