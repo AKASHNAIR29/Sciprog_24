@@ -39,4 +39,3 @@ The Difference at x=0.900000 is 0.1434035421
 Enter the value of n: 9
 Fibonacci series up to 9:
 0, 1, 1, 2, 3, 5, 8, 13, 21, 34
-[sp54@sciprog practical05]$
