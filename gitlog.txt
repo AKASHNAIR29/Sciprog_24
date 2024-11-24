@@ -1,0 +1,256 @@
+commit e5bf6d9b41a6f1239d6b1b857b92779d47a91b82
+Author: Akash Ajaykumar Nair <akash29nair@gmail.com>
+Date:   Wed Nov 20 21:24:20 2024 +0000
+
+    Add Practical 9 Code
+
+commit eb59bf05ad53bac0f2ff1dc16a6e1ccd277b35c5
+Author: Akash Ajaykumar Nair <akash29nair@gmail.com>
+Date:   Wed Nov 20 18:16:07 2024 +0000
+
+    Add Practical 8 Code
+
+commit f42a9201d619bb2f71220aa80d21361175a25fc3
+Author: Akash Ajaykumar Nair <akash29nair@gmail.com>
+Date:   Sat Nov 9 20:14:01 2024 +0000
+
+    Add Practical 7 Codes
+
+commit 443fc9523faf45d6a479f106baa26058e2645b42
+Author: Akash Ajaykumar Nair <akash29nair@gmail.com>
+Date:   Sat Nov 9 19:58:34 2024 +0000
+
+    Add Practical 6 Codes
+
+commit 0a6876f2770918d703c5d9f8b82c2294dc125c89
+Author: Zaddy <63089867+AKASHNAIR29@users.noreply.github.com>
+Date:   Sat Nov 9 19:24:10 2024 +0000
+
+    Delete practical6 directory
+
+commit a73b02eb93ed8ffb14daa01bf3f8ba6fba50d04e
+Merge: 31d5a81 8947775
+Author: Akash Ajaykumar Nair <akash29nair@gmail.com>
+Date:   Sat Nov 9 19:18:04 2024 +0000
+
+    Merge branch 'practical5'
+
+commit 31d5a81a225facf2180fda2708fa6976bd57cb5c
+Merge: 3eb6a89 fec3f4f
+Author: Akash Ajaykumar Nair <akash29nair@gmail.com>
+Date:   Sat Nov 9 19:15:56 2024 +0000
+
+    Merge branch 'master' of github.com:AKASHNAIR29/sciprog_24
+
+commit 894777526e5e5a2c1cc8ca66b2b0a26c05877a6a
+Author: Akash Ajaykumar Nair <akash29nair@gmail.com>
+Date:   Sat Nov 9 19:13:50 2024 +0000
+
+    Add Practical 5 Codes
+
+commit fec3f4fddb5b2d304f563d0318f1d19813848dc2
+Author: Zaddy <63089867+AKASHNAIR29@users.noreply.github.com>
+Date:   Sat Nov 9 18:53:52 2024 +0000
+
+    Delete practical05 directory
+
+commit 3eb6a895a7637b328bd527363529d17809ea6693
+Author: Akash Ajaykumar Nair <akash29nair@gmail.com>
+Date:   Sat Nov 9 18:46:24 2024 +0000
+
+    Removed practical05 branch and associated files
+
+commit 2b5125366f1a1e9aa04abd2b05d9ce508bf91c4e
+Merge: 98dd557 c82a360
+Author: Zaddy <63089867+AKASHNAIR29@users.noreply.github.com>
+Date:   Sat Nov 9 17:45:16 2024 +0000
+
+    Merge pull request #7 from AKASHNAIR29/practical05
+    
+    Practical05
+
+commit c82a3608a47853ac5415edb4fe512032c235f777
+Author: Zaddy <63089867+AKASHNAIR29@users.noreply.github.com>
+Date:   Sat Nov 9 16:09:09 2024 +0000
+
+    Add Practical05 Codes
+
+commit 98dd5570b1744535f4b87f4227dc26f8eebbabfe
+Author: Zaddy <63089867+AKASHNAIR29@users.noreply.github.com>
+Date:   Sat Nov 9 16:08:22 2024 +0000
+
+    Add Practical05 Codes
+
+commit d594d4f9235124a614d2267638b1590de994e175
+Author: Zaddy <63089867+AKASHNAIR29@users.noreply.github.com>
+Date:   Sat Nov 9 16:06:35 2024 +0000
+
+    Add Practical05 Codes
+
+commit 6c9651f346d32e6b6eafaea95712a495464f213f
+Author: Zaddy <63089867+AKASHNAIR29@users.noreply.github.com>
+Date:   Sat Nov 9 16:05:39 2024 +0000
+
+    Add Practical05 Codes
+
+commit d44fefcfd83a8b65c59aab59a66eaf4389fc0e8f
+Author: Zaddy <63089867+AKASHNAIR29@users.noreply.github.com>
+Date:   Sat Nov 9 16:04:33 2024 +0000
+
+    Add practical05 codes
+
+commit 9cebb2199c69ad9738511844fa0e927e9281c46c
+Author: Zaddy <63089867+AKASHNAIR29@users.noreply.github.com>
+Date:   Sat Nov 9 16:03:57 2024 +0000
+
+    Add practical05 codes
+
+commit d9a677ad03e4424e0414b7a2c5f327bfec5c3f83
+Merge: f151e82 b3c196c
+Author: Zaddy <63089867+AKASHNAIR29@users.noreply.github.com>
+Date:   Sat Nov 9 16:00:16 2024 +0000
+
+    Merge pull request #6 from AKASHNAIR29/practical05
+    
+    Delete practical5 directory
+
+commit b3c196ca21b9f6d710f015df1133c71a5d056a87
+Author: Zaddy <63089867+AKASHNAIR29@users.noreply.github.com>
+Date:   Sat Nov 9 15:59:52 2024 +0000
+
+    Delete practical5 directory
+
+commit f151e825162375ec6dad44e9ef1b711fb107cb8e
+Merge: 6d1e581 382cea6
+Author: Akash Ajaykumar Nair <akash29nair@gmail.com>
+Date:   Sat Nov 9 15:56:45 2024 +0000
+
+    Merge branch 'practical05'
+
+commit 382cea6e2ddc0ac44ded2dd848955d54db8f5fdb
+Author: Akash Ajaykumar Nair <akash29nair@gmail.com>
+Date:   Sat Nov 9 15:50:50 2024 +0000
+
+    Add Practical05 Codes
+
+commit 6d1e5811974c85bb0edc152db7d46ba50c966678
+Author: Zaddy <63089867+AKASHNAIR29@users.noreply.github.com>
+Date:   Sat Nov 9 15:16:55 2024 +0000
+
+    Add Introduction to Git Assignment
+
+commit 5ece0b75dd7f8585d9de825bb20c58b7b10401c1
+Author: Zaddy <63089867+AKASHNAIR29@users.noreply.github.com>
+Date:   Sat Nov 9 15:07:56 2024 +0000
+
+    Create README.md
+
+commit 1a61374fa488a35482142ca0656994c22b9afc3c
+Author: Zaddy <63089867+AKASHNAIR29@users.noreply.github.com>
+Date:   Sat Nov 9 15:06:13 2024 +0000
+
+    Delete fib.c
+
+commit 73e93f2fc9db320a25297d70b0041703c0cb9043
+Author: Zaddy <63089867+AKASHNAIR29@users.noreply.github.com>
+Date:   Sat Nov 9 15:06:04 2024 +0000
+
+    Delete arc.c
+
+commit ac8f3b41d3f647272a72897bbd5af090b4dc369c
+Author: Zaddy <63089867+AKASHNAIR29@users.noreply.github.com>
+Date:   Sat Nov 9 15:05:49 2024 +0000
+
+    Delete README.md
+
+commit 78e708c1a86dd3e2a8b61a6fd80de1b4149ea3d3
+Merge: ca286cf 64b6f6e
+Author: Zaddy <63089867+AKASHNAIR29@users.noreply.github.com>
+Date:   Sat Nov 9 14:58:45 2024 +0000
+
+    Merge pull request #5 from AKASHNAIR29/practical5
+    
+    Add files via upload
+
+commit 64b6f6e511fe8fa43f0403f7f8d861622fd5a52c
+Author: Zaddy <63089867+AKASHNAIR29@users.noreply.github.com>
+Date:   Sat Nov 9 14:58:25 2024 +0000
+
+    Add files via upload
+    
+    Add practical 5 codes
+
+commit ca286cf1182fa443111bff19ff95ae45d250e678
+Author: Zaddy <63089867+AKASHNAIR29@users.noreply.github.com>
+Date:   Sat Nov 9 14:38:15 2024 +0000
+
+    Delete practical5 directory
+
+commit 872f3b56147939c58d9257588ce3ca1aaefbb0bd
+Author: Zaddy <63089867+AKASHNAIR29@users.noreply.github.com>
+Date:   Sun Nov 3 12:43:22 2024 +0000
+
+    Delete assignment1 directory
+
+commit 193e4144ac5756a295f307d5b9a17a8a3e48be4c
+Merge: fa95a1d 65df394
+Author: Zaddy <63089867+AKASHNAIR29@users.noreply.github.com>
+Date:   Sun Nov 3 02:44:03 2024 +0000
+
+    Merge pull request #3 from AKASHNAIR29/assignment1
+    
+    Add Assignment1 Codes
+
+commit 65df3944542c6bb8daf75c21ca25bd8dc6ccd53d
+Author: Akash Ajaykumar Nair <akash29nair@gmail.com>
+Date:   Sun Nov 3 02:40:25 2024 +0000
+
+    Add Assignment1 Codes
+
+commit fa95a1ddb14366a0f14575d6da08b64cccaf601d
+Merge: e9b7d4c 3ed3990
+Author: Zaddy <63089867+AKASHNAIR29@users.noreply.github.com>
+Date:   Wed Oct 30 03:01:44 2024 +0000
+
+    Merge pull request #2 from AKASHNAIR29/practical5
+    
+    Add Practical5 Code
+
+commit 3ed39902f9680f3af4d5acc61ade3d54678e653b
+Author: Akash Ajaykumar Nair <akash29nair@gmail.com>
+Date:   Wed Oct 30 02:59:00 2024 +0000
+
+    Add Practical5 Code
+
+commit e9b7d4c72e5291b8b75fb7f057a41d62152fbe5a
+Merge: 8c763d0 c71cbe5
+Author: Zaddy <63089867+AKASHNAIR29@users.noreply.github.com>
+Date:   Mon Oct 28 20:29:08 2024 +0000
+
+    Merge pull request #1 from AKASHNAIR29/practical4
+    
+    Add Practical4 Code
+
+commit c71cbe5319de240b21c4a7bd4638a3ca46f031c0
+Author: Akash Ajaykumar Nair <akash29nair@gmail.com>
+Date:   Mon Oct 28 20:24:08 2024 +0000
+
+    Add Practical4 Code
+
+commit 8c763d04db83069223c63dd4728363551f5cef2e
+Author: Akash Ajaykumar Nair <akash29nair@gmail.com>
+Date:   Mon Oct 28 20:12:11 2024 +0000
+
+    Add Practical3 Code
+
+commit 53c1b10873c2baf8baaece27b35ff2ee2b58f18b
+Author: Akash Ajaykumar Nair <akash29nair@gmail.com>
+Date:   Sun Oct 20 00:55:06 2024 +0100
+
+    Add Practical2 Codes
+
+commit 175b1e9101132237cda0275c72173e44544e2232
+Author: Akash Ajaykumar Nair <akash29nair@gmail.com>
+Date:   Sun Oct 20 00:06:48 2024 +0100
+
+    Add introduction to Git Assignment
